@@ -255,10 +255,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## :handshake: Contact
 
-Your Name - AbdulRahmanSharief2@gmail.com
-
-Project Link: [https://messenger-clone-amber.vercel.app/](https://messenger-clone-amber.vercel.app/)
-
-<hr />
